@@ -52,7 +52,7 @@ get into touch you can always ping me on the given social areas.
 
 
 
-made by SUJAL with </br>...
+made by SUJAL </br>...
 </div>
 <!---
 sujal2048/sujal2048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
