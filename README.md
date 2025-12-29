@@ -5,10 +5,11 @@
 
 
 
-Hey folks!, I'm Sujal Gupta and I am an good learner when it comes to the latest technologies and their applications. 
-I am currently contributing majorly in front-end projects and learning the Data Structures and Algorithms. Full stack technologies have always been my first pick
-for any web-dev tasks and I look forward to apply those. For now I am looking for some projects in the field I am learning at the moment i.e., DSA. If you want to
-get into touch you can always ping me on the given social areas.
+Hey folks!, I'm Sujal Gupta and I am a Software Engineer and a learner ,when it comes to the latest technologies and their applications. 
+I am currently contributing Professionally in BACKEND projects in GOLANG and learning the core logic behind DISTRIBUTED SYSTEM.
+Proficient in GoLang , Java ,Python and C++ with strong command in Spring Boot, microservices, REST/gRPC APIs and distributed systems, Apache Kafka, and Open Telemetry.
+Experience with AI/ML and LLM-backed platforms, including TensorFlow, PyTorch, Scikit-learn, Pandas, RAG pipelines, vector databases and LLM orchestration (GPT, Claude, Llama, LangChain, LiteLLM). Focused on system design, observability and production services that handle real-time, large-scale workloads
+For now I am looking for new opportunity. If you want to get into touch you can always ping me on the given social areas.
 
  You can get in touch through: 
   <br>
