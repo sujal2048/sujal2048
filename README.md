@@ -58,7 +58,7 @@ For now I am looking for new opportunity. If you want to get into touch you can 
 
 
 
-made by SUJAL </br>...
+made by SUJAL GUPTA </br>...
 </div>
 <!---
 sujal2048/sujal2048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
